@@ -1,0 +1,13 @@
+01
+--
+entrée = bruit blanc gaussien
+
+
+02
+--
+entrée = sweep + wgn
+
+
+03
+--
+loss MSSE

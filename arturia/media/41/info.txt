@@ -1,0 +1,11 @@
+01
+--
+initialisation omega ; gain et Q random
+
+02
+--
+initialisation omega et gain ; Q random
+
+03
+--
+autre example
